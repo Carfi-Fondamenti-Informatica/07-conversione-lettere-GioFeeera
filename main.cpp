@@ -8,7 +8,7 @@ int main() {
         cout << n;
     }
     else if (funzione(n)==false){
-        cout << "errore"<< endl;
+        cout << "errore";
     }
     return 0;
 }
